@@ -1,2 +1,3 @@
 ## shell redirections
-Print Hello World
+1. Print Hello World
+2. Print Smiley cofused
