@@ -13,3 +13,10 @@
 11. Counts number of files in a directory
 12. Display new files in a current directory
 13. Find a word using grep
+14. Count the words in a file
+15. Find next word in a given file
+16. Displaying lines that do not match a given criteria
+17. Show letters only
+18. Displaying lines of capital letters only
+19. Replace given characters
+20. Remove all letters following a given criteria
