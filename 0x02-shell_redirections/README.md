@@ -7,4 +7,4 @@
 5. Read last contents of a file
 6. Read first lines of a file
 7. Display third line of a file
-
+9. Save contents state of a file
