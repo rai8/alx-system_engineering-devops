@@ -10,3 +10,5 @@
 8. Save contents state of a file
 9. Duplicate last line
 10. Delete subfiles in a directory
+11. Counts number of files in a directory
+12. Display new files in a current directory
