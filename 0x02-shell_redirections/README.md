@@ -12,3 +12,4 @@
 10. Delete subfiles in a directory
 11. Counts number of files in a directory
 12. Display new files in a current directory
+13. Find a word using grep
