@@ -9,3 +9,4 @@
 7. Display third line of a file
 8. Save contents state of a file
 9. Duplicate last line
+10. Delete subfiles in a directory
